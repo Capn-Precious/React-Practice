@@ -1,5 +1,5 @@
-import classes from './MeetupItem.style.css'
 import Card from "../ui/Card";
+import classes from './MeetupItem.style.css'
 
 function MeetupItem(props) {
     return (
